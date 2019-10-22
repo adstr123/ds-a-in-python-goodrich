@@ -10,5 +10,6 @@ def is_multiple(n, m):
   else:
     return False
 
+  # TODO: calculate time & space complexities for all exercises
   # Time: O(1)
   # Space:
